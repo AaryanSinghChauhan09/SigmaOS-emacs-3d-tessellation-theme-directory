@@ -3,7 +3,7 @@ name = "SigmaOS-emacs-3d-tessellation-theme-directory"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "emacs-3d-tessellation-theme-directory component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
